@@ -1,0 +1,2 @@
+pyTelegramBotAPI==4.29.1
+phonenumbers==9.0.16
